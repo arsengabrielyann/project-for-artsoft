@@ -1,0 +1,347 @@
+
+.container-fluid{
+    width: 1600px!important;
+    height: 136px!important;
+}
+.container{
+    width: 948px!important;
+    height: 136px!important;
+}
+.polo, .header2{
+    height: inherit
+}
+.polo{
+    padding-top: 30px;
+}
+ul{
+    padding-top: 20px;
+}
+.nav-item{
+    border-left-style: dotted;
+    border-right-style: dotted;
+    border-left-color:  #b7b7b730;
+    border-right-color:  #b7b7b730;
+    padding-left: 10px;
+    padding-right: 14px;
+}
+.nav-link{
+    font-size: 14px;
+    line-height: 14px;
+    color: #666666;
+    font-family: "Georgia";
+    font-weight: bold;
+     padding: 0px!important;
+    padding-bottom: 4px!important;
+   
+}
+.navtext{
+    font-size: 11px;
+    line-height: 14px;
+    color: #b7b7b7;
+    font-family: "Tahoma";
+    margin: 0 auto;
+}
+.dotted{
+    border-left-style: unset!important;
+}
+.dotted1{
+    border-left-style: unset!important;
+    border-right-style: unset!important;
+}
+.bg{
+    width:
+}
+.body{ 
+    background-image: linear-gradient(0deg, #333333 0%, #151515 100%);
+}
+.body,.body1{
+     height: 342px!important;
+}
+.karus{
+    width: 940px;
+    height: 342px;
+    border-radius: 8px;
+    background-color: #8f8f8f;
+    border: 1px solid #c6c6c6;
+    position: relative;
+    top: 20px;
+    background-image: url(../images/Layer%205.png);
+    background-position: center;
+    box-shadow: 0px 59px 10px -50px rgba(92,92,92,1);
+}
+.lorem1{
+    font-size: 24px;
+    color: #000000;
+    font-family: "Georgia";
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+    text-align: center;
+}
+hr{
+    border: 1px solid lightgrey;
+    box-shadow:  0px 9px 8px -10px #CCC,
+                 0px -9px 8px -10px #CCC; 
+    margin-top: 2rem!important;
+    margin-bottom: 2rem!important;
+}
+h2{
+    font-size: 21px!important;
+    letter-spacing: 1px;
+    color: #11719e;
+    font-family: "Georgia";
+    line-height: 0.2 !important;
+}
+.body2, .body3, .body4,.body5{
+    height: auto!important;
+}
+.body2,.body3{
+    padding-top: 25px;
+}
+.nkarner{
+    margin-top: 130px;
+}
+.allyouwant{
+    font-size: 12px;
+    color: #8c8c8c;
+    font-family: "Helvetica";
+}
+.layer{
+    position: relative;
+    left: 6px;
+    top: 6px;
+}
+.imag{
+    width: 299px;
+    height: 192px;
+    border-radius: 4px;
+    background-color: #f3f3f3;
+    border: 1px solid #e1e1e1;
+    margin-bottom: 7px;
+    box-shadow:  0px 11px 8px -10px #CCC,
+                 0px -11px 8px -10px #CCC; 
+}
+.button{
+    width: 162px;
+    height: 33px;
+    border-radius: 3px;
+    border: 1px solid #e1e1e1;
+    text-align: left;
+    box-shadow: 0px 9px 8px -10px #CCC,
+                0px -9px 8px -10px #CCC; 
+    background: rgba(226,226,226,1);
+    font-size: 12px;
+    color: #016999;
+    font-family: "Helvetica";
+}
+.next{
+    padding-left: 62px;
+}
+h3{
+    font-size: 18px!important;
+    line-height: 14px;
+    color: #444444;
+    font-family: "Georgia";
+}
+.ketagic{
+    font-size: 12px;
+    line-height: 14px;
+    color: #d3d3d3;
+    font-family: "Verdana";
+    margin-bottom: 4px;
+}
+.vero{
+    font-size: 12px;
+    line-height: 14px;
+    color: #444444;
+    font-family: "Helvetica";    
+}
+.layer1{
+    width: 53px
+}
+h5{
+    font-size: 18px!important;
+    line-height: 14px;
+    color: #444444;
+    font-weight: bold!important;
+    padding-top: 34px;
+    letter-spacing: 1px;
+    margin-bottom: 0!important;
+}
+input{
+    width: 100%;
+    height: 33px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: 1px solid #cfcfcf;
+    font-size: 10px!important;
+    line-height: 14px!important;
+}
+input::placeholder{
+    font-size: 10px;
+    color: #d4d4d4;
+    padding: 15px;
+    font-family: "Verdana"!important;
+}
+.subscribe{
+    width: 162px;
+    height: 33px;
+    text-align: left;
+    border-radius: 4px;
+    border: 1px solid #004a80;
+    font-size: 13px!important;
+    color: #ffffff!important;
+    font-family: "Georgia"!important;
+    background: rgba(55,131,199,1);
+    margin-top: 10px;
+    margin-bottom: 22px;
+}
+.youremail{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.message{
+    width: 100%;
+    height: 141px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: 1px solid #cfcfcf;
+}
+.ramka{
+    width: 58px;
+    height: 58px;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    border: 1px solid #cfcfcf;
+}
+.ramka>img{
+    padding: 4px;
+    width: 56px;
+    height: 55px
+}
+.updates{
+    font-size: 12px;
+    line-height: 14px;
+    color: #444444;
+    font-family: "Helvetica"!important;
+    width: 233px;
+    height: 40px;
+    padding-left: 5px;
+}
+.news{
+    width: auto!important ;
+    height: auto!important;
+    padding-right: 0!important;
+}
+.ketagic1{
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.ketagic2{
+    margin-bottom: 0!important;
+}
+.sub1{
+        margin-top: 6px;
+}
+.next2{
+        padding-left: 39px;
+}
+.next1{
+        padding-left: 75px;
+}
+.footer{
+    height: 174px!important;
+}
+.footer1{
+    border-top: 10px solid #4c4c4c;
+    height: 184px!important;
+}
+.footer,.footer1{
+    background-color: #333333;
+}
+.vivrocks,.vivrocks1,.vivrocks2{
+    font-size: 11px;
+    line-height: 10px;
+    color: #999999;
+    font-family: "Helvetica";
+}
+.vivrocks{
+    padding-top: 13px;
+    margin-bottom: 5px;
+}
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .polo1{
+        width: 249px!important;
+        padding-top: 20px!important;
+    }
+    li.nav-item{
+        padding-left: 1px;
+        padding-right: 0px;
+        padding-top: 20px;
+    }
+    a.nav-link{
+        font-size: 10px;
+    }
+    .karus{
+        width: 702px;
+    }
+    .lorem1{
+        font-size: 20px;
+    }
+    .allyouwant{
+        font-size: 10px;
+    }
+    h2{
+        font-size: 17px!important;
+    }
+    .layer{
+        width: 200px;
+    }
+    .imag{
+        width: 214px;
+        height: 140px;
+    }
+    h3{
+        font-size: 14px!important;
+    }
+    .ketagic{
+        font-size: 10px;
+        font-family: unset;
+    }
+    .vero{
+        font-size: 10px;
+    }
+    .layer1{
+        width: 38px;
+    }
+    h5{
+        font-size: 14px!important;
+    }
+    .subscribe{
+        width: 160px;
+        height: 23px;
+    }
+    input{
+        height: 25px;
+    }
+    .message{
+        height: 129px;
+    }
+    .ramka>img{
+        width: 38px;
+        height: 38px;     
+    }
+    .ramka{
+        width: 40px;
+        height: 40px;
+    }
+    .updates {
+        font-size: 9px;
+        width: 172px;
+        height: 33px;
+    }
+    .vivrocks, .vivrocks1, .vivrocks2{
+        font-size: 8px;
+        fon
+    }
+}
